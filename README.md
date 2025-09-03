@@ -4,5 +4,4 @@
 3. Element3
 + Element1
 + Element2
-+ Element3
-/ ***This text is both bold and italics***
++ Element3 /***This text is both bold and italics***
