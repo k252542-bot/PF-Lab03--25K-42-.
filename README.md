@@ -5,5 +5,4 @@
 + Element1
 + Element2
 + Element3
-***This text is both bold and italics***\
-  
+/ ***This text is both bold and italics***
